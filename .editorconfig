@@ -36,8 +36,3 @@ indent_style = tab
 [*.css]
 indent_style = space
 indent_size = 2
-
-# Go templates
-[*.template]
-indent_style = space
-indent_size = 2
